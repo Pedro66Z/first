@@ -1,0 +1,15 @@
+#szam = input("adj meg egy számot!")
+#P = int(szam)
+#print(P)
+#print(type(P))
+#print(P / 2)
+
+
+ter = float(input("add meg a kör sugarát a területhez"))
+
+print((ter*ter)*3.14,"terület")
+
+
+sugar = float(input("add meg a kör sugarát a kerülethez!"))
+#szam = float(sugar)
+print(sugar*3.14*2, "kerület")
